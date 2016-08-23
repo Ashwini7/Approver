@@ -1,5 +1,5 @@
 name = Approver
-description = This module provide assignment code of Webonise.
+description = This module provide assignment code of Webonise, testing hub.
 core = 7.x
 package = Webonise
 version = 7.x-1.0-beta2
